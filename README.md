@@ -48,7 +48,7 @@ Ao final da disciplina, o estudante deverá ser capaz de:
 - Justificar tecnicamente a escolha da plataforma  
 - Desenvolver firmware e integrar serviços em nuvem  
 - Analisar trade-offs entre custo, desempenho e escalabilidade
-- 
+  
 
 # 📅 Cronograma da Disciplina
 
