@@ -35,8 +35,8 @@ A avaliação será composta por:
 
 - Participação nas atividades práticas  
 - Desenvolvimento de protótipo IoT  
-- Apresentação técnica do projeto Prazo: 20/03/2026
-- Seminário temático  (Tema será definido)
+- Apresentação técnica do projeto **Prazo: 20/03/2026**
+- Seminário temático  (**Tema será definido**)
 
 ---
 
