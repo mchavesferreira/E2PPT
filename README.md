@@ -74,10 +74,9 @@ Ao final da disciplina, o estudante deverá ser capaz de:
 ## 🔹 Aula 3 – ESP32 e Protocolos IoT
 📅 **20/02/2026**
 
-- Arquitetura do ESP32  
-- Memórias, GPIO e periféricos  
-- Protocolos de comunicação para IoT  
-- Práticas com ESP32 e integração com nuvem  
+- Revisão da placa de desenvolvimento ESP32, arquitetura, memórias, GPIO e periféricos.
+- Revisão de protocolos de comunicação padrões para IoT.
+- Práticas com a placa ESP32, frameworks de programação e plataformas de dados em nuvem.
 
 ---
 
