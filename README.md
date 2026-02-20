@@ -79,7 +79,9 @@ Ao final da disciplina, o estudante deverá ser capaz de:
 - Práticas com a placa ESP32, frameworks de programação e plataformas de dados em nuvem.
   
 https://github.com/mchavesferreira/mcr/tree/main/esp32
+
 https://github.com/mchavesferreira/mcr/tree/main/esp32_iot
+
 ---
 
 ## 🔹 Aula 4 – Interfaces e Sensores para IoT
