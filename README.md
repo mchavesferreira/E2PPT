@@ -1,6 +1,7 @@
 # POS.01309 (E2PPT)  
 ## Plataformas de Prototipação para Internet das Coisas  
 **Prof. Dr. Marcos Aparecido Chaves Ferreira** 
+
 **Pós-graduação – 23,40h | 28 aulas**  
 **Curso:** ESPECIALIZAÇÃO EM INTERNET DAS COISAS – CTD.LAT.ICS.2020  
 IFSP – Campus Catanduva  
