@@ -93,6 +93,15 @@ https://github.com/mchavesferreira/mcr/tree/main/esp32_iot
 - Critérios para seleção de sensores  
 
 ---
+Interfaces:  https://github.com/mchavesferreira/sebe/blob/main/slides/Quarta%20Aula%20_%20Interfaces.pdf
+
+Tasmota: https://tasmota.github.io/docs/
+
+Prototipando com HomeAssistant: https://www.home-assistant.io/
+
+TCC IoT com Matter: https://github.com/mchavesferreira/sebe/blob/main/projetos/TCC%20_rede_matter_Wladerson_Roman_Rissi.pdf
+
+Código Arduino MQTT/DHT: [https://github.com/mchavesferreira/E2PPT/tree/main/codes](https://github.com/mchavesferreira/E2PPT/blob/main/codes/dht_mqtt_display.ino)
 
 ## 🔹 Aula 5 – Prototipação Completa IoT
 📅 **06/03/2026**
