@@ -114,6 +114,19 @@ Código Arduino MQTT/DHT: [https://github.com/mchavesferreira/E2PPT/tree/main/co
 
 ---
 
+https://github.com/mchavesferreira/sebe/tree/main/mqtt MQT
+
+https://github.com/mchavesferreira/sebe/blob/main/flow_exemplos Node-RED
+
+https://github.com/mchavesferreira/sebe/blob/main/bancodados.md  Banco de dados mysql
+
+https://github.com/mchavesferreira/php_app  Instalar api em php
+
+https://wokwi.com/projects/396067644168942593 Simulando ESP32 subindo dado via método get
+
+https://github.com/mchavesferreira/sebe/blob/main/node_mysql_mqtt.json  flow para projeto mqtt/mysql/nodered
+
+
 ## 🔹 Aula 6 – Linux Embarcado para IoT
 📅 **13/03/2026**
 
