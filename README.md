@@ -147,9 +147,9 @@ https://github.com/mchavesferreira/sebe/blob/main/node_mysql_mqtt.json  flow par
 - Entrega em Trabalhos (SUAP)
 ---
 
-## Exemplo de projeto anos anteriores
+# Exemplo de projeto anos anteriores
 
-https://github.com/danielgoncalves/iot-e2ppt
+https://github.com/danielgoncalves/iot-ifsp-ctd-tcc
 
 
 ### Introdução ao Linux
